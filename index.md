@@ -1,6 +1,8 @@
-<h1>hello<h1>
-#cool guys
+<h1>Hello Guys<h1>
 
-Cool bro
+Welcome to my
+                   **Website**
 
-Pls join my [Discord server](https://discord.gg/Cv5uK8e)
+* Make sure to 
+              join my 
+       **[Discord server](https://discord.gg/Cv5uK8e)**
